@@ -1,0 +1,22 @@
+@import url(//db.onlinewebfonts.com/c/b6539b6d3432c623d8d4f9cc2a29589e?family=Berlin+Sans+FB+Demi);
+
+#answer_box1, #answer_box2, 
+#answer_box3, #answer_box4,
+#answer_box5, #answer_box6, 
+#answer_box7, #answer_box8,
+#answer_box9, #answer_box10, 
+#answer_box11, #answer_box12,
+#answer_box13, #answer_box14, 
+#answer_box15, #answer_box16{
+    font-size: 100px;
+    text-align: center;
+    font-weight: bold;
+    color: #000000;
+    text-transform: lowercase;
+    width: 300px;
+    height: 150;
+    font-family: "Berlin Sans FB Bold";
+    border-radius: 15px;
+    border: 3px solid #000000;
+}
+
